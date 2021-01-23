@@ -1,5 +1,9 @@
 # yolov5_tflite_on_ios
 - [x] Swift
+- [x] tflite
+
+# Usage
+- tflite example [here](https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/ios)
 
 # Installation:
 ```shell
