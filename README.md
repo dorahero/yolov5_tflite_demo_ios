@@ -6,6 +6,7 @@
 - tflite example [here](https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/ios)
 
 # Installation:
+- Note : The version of TensorFlowLiteSwift in podfile should be the same as the version of tensorflow when you convert your model used.
 ```shell
 cd yolov5_tflite_demo_ios
 pod install
